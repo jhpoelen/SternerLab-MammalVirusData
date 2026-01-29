@@ -14,6 +14,7 @@
     "headerRowCount" : 2,
     "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
     "interactionTypeName": "interactsWith",
+    "deprecated": true,
     "null" : [ "", "NA" ],
     "tableSchema" : {
       "primaryKey": "referenceId",
